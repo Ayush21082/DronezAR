@@ -1,4 +1,4 @@
-# DronezAR -  WWDC23 [Submitted]
+# DronezAR -  WWDC23 [Selected]
 <img src="https://github.com/Ayush21082/DronezAR/blob/main/assets/icon-1024.png" width="120">
 <b></b>
 <p>

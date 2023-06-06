@@ -9,6 +9,9 @@
 </p>
 
 ## Introduction ##
+ WWDC23 Swift Student Challenge Seleted Project. 
+<br/>
+<br/>
 AR app that controls a drone using joysticks and buttons. The app uses RealityKit and ARKit frameworks to create a realistic AR experience.
 
 ## Technologies I used ##

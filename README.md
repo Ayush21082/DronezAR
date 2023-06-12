@@ -18,7 +18,7 @@ AR app that controls a drone using joysticks and buttons. The app uses RealityKi
 `SwiftUI` `ARKit` `RealityKit` `SceneKit` 
 
 ## Project Video ##
-<b>Uploading soon...</b>
+ [Demo](https://twitter.com/Ayush21082/status/1665828992149233664?s=20)
 ## Author ##
 <b>Ayush Singh: </b> 
   [GitHub, ](https://github.com/ayush21082) 
